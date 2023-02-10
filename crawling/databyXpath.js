@@ -20,3 +20,5 @@ function getData(XPath) {
 
 // brands.live
 let data = getData("//div[@class='blog-post-details']/h3/a/text()");
+
+//Category image getData('//div[@class="owl-stage"]/div[@class="owl-item"]/div[@class="single-testmonial"]/div[@class="author-content"]/a/img//@src')
